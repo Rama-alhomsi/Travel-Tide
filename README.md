@@ -70,4 +70,5 @@ The final output merges the behavioral insights with user demographic data such 
 
 This SQL script provides a detailed, data-driven approach to understanding user behavior in a travel context. By combining metrics across multiple dimensions (flights, hotels, and browsing), the model can effectively classify users into distinct groups and identify key behavioral patterns that can be leveraged for marketing, retention, and personalized user experiences.
 
-
+## Resources:
+- [Presentation ](https://www.canva.com/design/DAGQAMlsxF8/fxk64LCzDlq4Fh5RV8yg1Q/edit?utm_content=DAGQAMlsxF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
