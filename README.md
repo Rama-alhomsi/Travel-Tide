@@ -73,4 +73,4 @@ This SQL script provides a detailed, data-driven approach to understanding user 
 ## Resources:
 - [Presentation Slids](https://www.canva.com/design/DAGQAMlsxF8/fxk64LCzDlq4Fh5RV8yg1Q/edit?utm_content=DAGQAMlsxF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 -  [Dashboard in Tableau](https://public.tableau.com/views/BehaviorIndicesClustering/TravilTide?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
--  [Video Presentation](https://www.canva.com/design/DAGQAMlsxF8/fxk64LCzDlq4Fh5RV8yg1Q/edit?utm_content=DAGQAMlsxF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+-  [Video Presentation](https://www.canva.com/design/DAGQAMlsxF8/Nj_mHGCxZKtL4H4MCbmsJg/view?utm_content=DAGQAMlsxF8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view&continue_in_browser=true) 
